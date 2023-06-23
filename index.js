@@ -10,7 +10,7 @@ function Fun(props){
 const shoot = (a) => console.log(a);
 
 function Fun1(){
-    const namee = "VennilaGuhan"
+    const namee = "VennilaGuhan2329"
     const obj = { dob : "Feb 23", number : 79798 }
     return(
        <>
