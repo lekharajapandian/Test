@@ -9,9 +9,10 @@ function Fun(props){
 }
 const shoot = (a) => console.log(a);
 
+
 function Fun1(){
     const namee = "VennilaGuhan2329"
-    const obj = { dob : "Feb 23", number : 79798 }
+    const obj = { dob : "Feb 23", number : 797982323 }
     return(
        <>
         <h1>Hello</h1>
