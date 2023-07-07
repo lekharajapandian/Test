@@ -18,6 +18,8 @@ function Fun1(){
         <h1>Hello</h1>
         <h1>Hello jgkkhj</h1>
         <h1>Helloooooooooooo</h1>
+        <h1>Hhhhhhhhhhello</h1>
+        <h1>Hello</h1>
          <Fun brand = { obj } />
          <button onClick={()=>shoot("Goal")}>Click</button>
          
